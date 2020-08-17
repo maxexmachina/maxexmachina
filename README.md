@@ -1,8 +1,7 @@
 ### Hi, I'm Max 
 
 ## I'm a student of Moscow Institute of Physics and Technology studying Aerospace Engineering
-- Over the last couple years I went through many different programming courses, exploring what interested me the most
-- Dabbled in all sorts of things ranging from physics simulations and machine learning in Matlab to doing frontend in React and making games in Unity 
+- Jack of all trades, dabbled in all sorts of things ranging from physics simulations and machine learning in Matlab to doing frontend in React and making games in Unity 
 - Now I mostly use C++, trying (sometimes even successfully) to create small desktop apps and games with SFML
 - Amateur climber
 
@@ -37,7 +36,7 @@
 <br />
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
 
   <img align="left" alt="maxexmachina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maxexmachina&show_icons=true&hide_border=true&theme=merko" />
 
