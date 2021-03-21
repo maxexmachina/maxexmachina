@@ -3,7 +3,6 @@
 ## I'm a student of Moscow Institute of Physics and Technology studying Aerospace Engineering
 - Jack of all trades, dabbled in all sorts of things ranging from physics simulations and machine learning in Matlab to doing frontend in React and making games in Unity 
 - Now I mostly use C++, trying (sometimes even successfully) to create small desktop apps and games with SFML
-- Amateur climber
 
 ### You can find me here:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
